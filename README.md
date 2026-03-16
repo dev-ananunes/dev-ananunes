@@ -1,4 +1,5 @@
 Oi, eu sou a Ana! 👋
+
 🚀 Sobre Mim
 Sou formada em Economia e atualmente graduanda em Ciência da Computação. Busco unir a lógica dos mercados com a precisão do código para me tornar uma Desenvolvedora Full-Stack. Sou movida pela curiosidade de entender como os sistemas funcionam, do baixo nível ao global.
 
