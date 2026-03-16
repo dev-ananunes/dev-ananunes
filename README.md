@@ -1,29 +1,29 @@
-Oi, eu sou a Ana! 👋
+# Olá, eu sou a Ana! 👋 
 
-🚀 Sobre Mim
-Sou formada em Economia e atualmente graduanda em Ciência da Computação. Busco unir a lógica dos mercados com a precisão do código para me tornar uma Desenvolvedora Full-Stack. Sou movida pela curiosidade de entender como os sistemas funcionam, do baixo nível ao global.
+### 🚀 Sobre Mim
+Sou formada em **Economia** e graduanda em **Ciência da Computação**. Busco unir a lógica de mercados com a precisão do código para me tornar uma **Desenvolvedora Full-Stack**. Sou movida pela curiosidade de entender como sistemas funcionam, do baixo nível ao global.
 
-🛠️ Tech Stack & Aprendizados
-Linguagens: C (Aprofundando no baixo nível) e JavaScript.
+---
 
-Web: HTML5 & CSS3 (via The Odin Project).
+### 🛠️ Tech Stack & Aprendizados
+* **Linguagens:** C (Aprofundando em baixo nível) e JavaScript.
+* **Web:** HTML5 & CSS3 (The Odin Project).
+* **Ferramentas:** Git, GitHub e VS Code.
+* **Interesses:** Cloud Computing e Segurança da Informação.
 
-Ferramentas: Git, GitHub e VS Code.
+---
 
-Interesses atuais: Cloud Computing e Segurança da Informação.
+### 🕹️ Projeto Atual: PROTOCOL: AWAKENING
+Desenvolvendo um **RPG de texto em C** do zero para praticar lógica pura, gerenciamento de memória e game design. 👾
 
-🕹️ Projeto em Destaque: PROTOCOL: AWAKENING
-Desenvolvendo um RPG de texto em C do zero. É onde coloco em prática lógica pura, gerenciamento de memória e game design. 👾
+---
 
-🌌 Além do Código
-🪐 Fascinada por Astronomia e mecânica orbital.
-
-🤖 Entusiasta de Robótica e automação.
-
-🏹 Guardiã em Destiny 2. Eyes up, Guardian!
-
-💡 Adoro resolver quebra-cabeças técnicos e inventar coisas.
+### 🌌 Além do Código
+* 🪐 **Espaço:** Astronomia e mecânica orbital.
+* 🤖 **Robótica:** Automação e o futuro da tecnologia.
+* 🏹 **Games:** Guardiã em **Destiny 2**. *Eyes up, Guardian!*
+* 💡 **Criação:** Adoro resolver quebra-cabeças técnicos e inventar coisas.
 
 <p align="center">
-<em>"Per aspera ad astra" 🪐</em>
+  <em>"Per aspera ad astra" 🪐</em>
 </p>
