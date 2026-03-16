@@ -1,34 +1,28 @@
-# Hi there, I'm Ana! 👋 
+Oi, eu sou a Ana! 👋
+🚀 Sobre Mim
+Sou formada em Economia e atualmente graduanda em Ciência da Computação. Busco unir a lógica dos mercados com a precisão do código para me tornar uma Desenvolvedora Full-Stack. Sou movida pela curiosidade de entender como os sistemas funcionam, do baixo nível ao global.
 
-### 🚀 About Me
-- 🎓 **Background:** I have a degree in **Economics** and I am currently studying **Computer Science**.
-- 💻 **Goal:** Dedicated to becoming a **Full-Stack Developer**.
-- 🛠️ **Mindset:** Driven by a deep curiosity to understand the inner workings of systems—from global markets to low-level code.
+🛠️ Tech Stack & Aprendizados
+Linguagens: C (Aprofundando no baixo nível) e JavaScript.
 
----
+Web: HTML5 & CSS3 (via The Odin Project).
 
-### 🛠️ Tech Stack & Tools
-- ⌨️ **C Programming** (Current Deep Dive)
-- 🌐 **HTML5, CSS3 & JavaScript** (The Odin Project)
-- 🐙 **Git & GitHub**
-- 💻 **Visual Studio Code**
-- ☁️ **Learning:** Cloud Computing & Information Security
+Ferramentas: Git, GitHub e VS Code.
 
----
+Interesses atuais: Cloud Computing e Segurança da Informação.
 
-### 🕹️ Current Project: PROTOCOL: AWAKENING
-I am currently building a **text-based RPG in C**. This project is where I practice logic, memory management, and game design from scratch. 👾
+🕹️ Projeto em Destaque: PROTOCOL: AWAKENING
+Desenvolvendo um RPG de texto em C do zero. É onde coloco em prática lógica pura, gerenciamento de memória e game design. 👾
 
----
+🌌 Além do Código
+🪐 Fascinada por Astronomia e mecânica orbital.
 
-### 🌌 Beyond the Code
-- 🪐 **Space:** Fascinated by planets and orbital mechanics.
-- 🤖 **Robotics:** Interested in the future of automated technology.
-- 🏹 **Gaming:** Huge fan of **Destiny 2**. *Eyes up, Guardian!*
-- 💡 **Invention:** I love building things and solving technical puzzles.
+🤖 Entusiasta de Robótica e automação.
 
----
+🏹 Guardiã em Destiny 2. Eyes up, Guardian!
+
+💡 Adoro resolver quebra-cabeças técnicos e inventar coisas.
 
 <p align="center">
-  <em>"Per aspera ad astra" 🪐</em>
+<em>"Per aspera ad astra" 🪐</em>
 </p>
